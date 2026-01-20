@@ -4,6 +4,6 @@ var variable3 = true;       // булевое значение
 
 // Выводим таблицу
 console.log("Variable Name\tValue\tType");
-console.log("variable1\t" + variable1 + "\t" + typeof variable1);
+console.log("variable1\t" + variable1 + "\t" + typeof variable1);run
 console.log("variable2\t" + variable2 + "\t" + typeof variable2);
 console.log("variable3\t" + variable3 + "\t" + typeof variable3);
