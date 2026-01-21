@@ -10,5 +10,4 @@ print(x, type(x).__name__)
 x = True
 print(x, type(x).__name__)
 
-# Dynamic typing explanation
-print("\nDynamic typing means that the type of a variable can change during runtime.")
+# Dynamic typing means a variable name can be rebound to values of different types at runtime.
